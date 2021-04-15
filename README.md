@@ -67,14 +67,8 @@ Now, you can customize it with your data through CosmicJS interface!
 ## Author
 
 👤 **Hugo Bollon**
+👤 **moodyshegs**
 
-* Github: [@hbollon](https://github.com/hbollon)
-* LinkedIn: [@Hugo Bollon](https://www.linkedin.com/in/hugobollon/)
-* Portfolio: [hugobollon.me](https://www.hugobollon.me)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/hbollon/portfolio-vuejs/issues). 
 
 ## Show your support
 
