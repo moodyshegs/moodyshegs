@@ -45,13 +45,13 @@
 
     @media(min-width: #{map-get($breakpoints, medium)}) {
         .section-content {
-            width: 80%;
+            width: 60%;
             margin: 0 auto;
         }
     }
 
     img{
-        max-width: 120px;
+        max-width: 80px;
     }
 
     .altCaption{
